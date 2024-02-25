@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.para{
+    color: #1e293b;
+    font-family: "Roboto";
+}
